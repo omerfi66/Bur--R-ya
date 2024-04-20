@@ -9,8 +9,9 @@ Due to my busy schedule, it took a while to share this wonderful experience with
 You can review the source code on GitHub; 
 
 
-<img width="250" alt="Ekran Resmi 2024-04-18 14 48 57" src="https://github.com/omerfi66/specialProject/assets/120007024/4be03b7e-15f5-48ac-9840-e72f9bcc7dfd">
-<img width="250" alt="Ekran Resmi 2024-04-18 14 49 42" src="https://github.com/omerfi66/specialProject/assets/120007024/9234901a-f5ef-41c4-ad4a-c84ac30f4a2d">
-<img width="250" alt="Ekran Resmi 2024-04-18 14 50 05" src="https://github.com/omerfi66/specialProject/assets/120007024/304c6dbe-21e8-4786-be92-5729bf168280">
-<img width="250" alt="Ekran Resmi 2024-04-18 14 50 31" src="https://github.com/omerfi66/specialProject/assets/120007024/9dc56447-4bda-4a5a-92dd-2c7c4ff31d07">
-<img width="250" alt="Ekran Resmi 2024-04-18 15 01 26" src="https://github.com/omerfi66/specialProject/assets/120007024/4828279f-bcf8-4fba-8cde-aecaedd8be49">
+
+<img width="250" alt="Ekran Resmi 2024-04-18 14 48 57" src="https://github.com/omerfi66/Bur--R-ya/assets/120007024/12d3c182-fc38-4e62-b103-0bc1fea54fd9">
+<img width="250" alt="Ekran Resmi 2024-04-18 14 49 42" src="https://github.com/omerfi66/Bur--R-ya/assets/120007024/98e0dbd1-c62a-4609-b803-f57e44dfbdaf">
+<img width="250" alt="Ekran Resmi 2024-04-18 14 50 05" src="https://github.com/omerfi66/Bur--R-ya/assets/120007024/5163eef1-714b-46e2-b9b6-8ba3fa17e317">
+<img width="250" alt="Ekran Resmi 2024-04-18 14 50 31" src="https://github.com/omerfi66/Bur--R-ya/assets/120007024/4345aadf-51b3-4b89-b71d-76db2aff2a7d">
+<img width="250" alt="Ekran Resmi 2024-04-18 15 01 26" src="https://github.com/omerfi66/Bur--R-ya/assets/120007024/e8e01809-6489-458f-9eb3-3c49bda9bd58">
