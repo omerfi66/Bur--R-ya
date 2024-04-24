@@ -10,8 +10,11 @@ Due to my busy schedule, it took a while to share this wonderful experience with
 
 You can review the source code on GitHub; 
 
-![Apple iPhone 11 Pro Max Screenshot 3](https://github.com/omerfi66/Burc-Ruya/assets/120007024/2aa88391-4c08-404c-823d-a65aa2ddb60b =250x)
-![Apple iPhone 11 Pro Max Screenshot 2](https://github.com/omerfi66/Burc-Ruya/assets/120007024/0448640c-b872-47bf-a91b-8ea8c8b120f3 =250x)
-![Apple iPhone 11 Pro Max Screenshot 1](https://github.com/omerfi66/Burc-Ruya/assets/120007024/a9166e66-847f-492c-b6cc-25dbd47160cf =250x)
-![Apple iPhone 11 Pro Max Screenshot 0](https://github.com/omerfi66/Burc-Ruya/assets/120007024/b5bfec03-a93e-4a07-b0c1-ed9001cf04a7 =250x)
 
+![app4](https://github.com/omerfi66/Burc-Ruya/assets/120007024/c68fca13-209c-4d48-a81a-f2d4bd23dc74)
+![app3](https://github.com/omerfi66/Burc-Ruya/assets/120007024/b6935d6f-51ee-4a9b-87a3-2c686fcf8d44)
+![app1](https://github.com/omerfi66/Burc-Ruya/assets/120007024/150f6372-a15d-48a7-88e1-90501f4a1f0a)
+![app2](https://github.com/omerfi66/Burc-Ruya/assets/120007024/a81f8534-d91b-46db-a58a-1188238d3211)
+
+![app1](https://github.com/omerfi66/Burc-Ruya/assets/120007024/6731ce94-e67b-49ee-8a1e-b2789e691cfd)
+<img width="237" alt="Ekran Resmi 2024-04-21 15 44 08" src="https://github.com/omerfi66/Burc-Ruya/assets/120007024/c68fca13-209c-4d48-a81a-f2d4bd23dc74">
