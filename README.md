@@ -12,8 +12,8 @@ You can review the source code on GitHub;
 
 
 
-<img width="237" alt="Ekran Resmi 2024-04-21 15 44 08" src="https://github.com/omerfi66/Burc-Ruya/assets/120007024/150f6372-a15d-48a7-88e1-90501f4a1f0a">,
-<img width="237" alt="Ekran Resmi 2024-04-21 15 44 08" src="https://github.com/omerfi66/Burc-Ruya/assets/120007024/a81f8534-d91b-46db-a58a-1188238d3211">,
-<img width="237" alt="Ekran Resmi 2024-04-21 15 44 08" src="https://github.com/omerfi66/Burc-Ruya/assets/120007024/b6935d6f-51ee-4a9b-87a3-2c686fcf8d44">,
-<img width="237" alt="Ekran Resmi 2024-04-21 15 44 08" src="https://github.com/omerfi66/Burc-Ruya/assets/120007024/c68fca13-209c-4d48-a81a-f2d4bd23dc74">
+<img width="215" alt="Ekran Resmi 2024-04-21 15 44 08" src="https://github.com/omerfi66/Burc-Ruya/assets/120007024/150f6372-a15d-48a7-88e1-90501f4a1f0a">,
+<img width="215" alt="Ekran Resmi 2024-04-21 15 44 08" src="https://github.com/omerfi66/Burc-Ruya/assets/120007024/a81f8534-d91b-46db-a58a-1188238d3211">,
+<img width="215" alt="Ekran Resmi 2024-04-21 15 44 08" src="https://github.com/omerfi66/Burc-Ruya/assets/120007024/b6935d6f-51ee-4a9b-87a3-2c686fcf8d44">,
+<img width="215" alt="Ekran Resmi 2024-04-21 15 44 08" src="https://github.com/omerfi66/Burc-Ruya/assets/120007024/c68fca13-209c-4d48-a81a-f2d4bd23dc74">
 
