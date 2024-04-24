@@ -10,9 +10,8 @@ Due to my busy schedule, it took a while to share this wonderful experience with
 
 You can review the source code on GitHub; 
 
+![Apple iPhone 11 Pro Max Screenshot 3](https://github.com/omerfi66/Burc-Ruya/assets/120007024/2aa88391-4c08-404c-823d-a65aa2ddb60b =250x)
+![Apple iPhone 11 Pro Max Screenshot 2](https://github.com/omerfi66/Burc-Ruya/assets/120007024/0448640c-b872-47bf-a91b-8ea8c8b120f3 =250x)
+![Apple iPhone 11 Pro Max Screenshot 1](https://github.com/omerfi66/Burc-Ruya/assets/120007024/a9166e66-847f-492c-b6cc-25dbd47160cf =250x)
+![Apple iPhone 11 Pro Max Screenshot 0](https://github.com/omerfi66/Burc-Ruya/assets/120007024/b5bfec03-a93e-4a07-b0c1-ed9001cf04a7 =250x)
 
-
-![Apple iPhone 11 Pro Max Screenshot 3](https://github.com/omerfi66/Burc-Ruya/assets/120007024/2aa88391-4c08-404c-823d-a65aa2ddb60b)
-![Apple iPhone 11 Pro Max Screenshot 2](https://github.com/omerfi66/Burc-Ruya/assets/120007024/0448640c-b872-47bf-a91b-8ea8c8b120f3)
-![Apple iPhone 11 Pro Max Screenshot 1](https://github.com/omerfi66/Burc-Ruya/assets/120007024/a9166e66-847f-492c-b6cc-25dbd47160cf)
-![Apple iPhone 11 Pro Max Screenshot 0](https://github.com/omerfi66/Burc-Ruya/assets/120007024/b5bfec03-a93e-4a07-b0c1-ed9001cf04a7)
