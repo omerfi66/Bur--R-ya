@@ -12,8 +12,7 @@ You can review the source code on GitHub;
 
 
 
-<img width="250" alt="Ekran Resmi 2024-04-18 14 48 57" src="https://github.com/omerfi66/Bur--R-ya/assets/120007024/12d3c182-fc38-4e62-b103-0bc1fea54fd9">
-<img width="250" alt="Ekran Resmi 2024-04-18 14 49 42" src="https://github.com/omerfi66/Bur--R-ya/assets/120007024/98e0dbd1-c62a-4609-b803-f57e44dfbdaf">
-<img width="250" alt="Ekran Resmi 2024-04-18 14 50 05" src="https://github.com/omerfi66/Bur--R-ya/assets/120007024/5163eef1-714b-46e2-b9b6-8ba3fa17e317">
-<img width="250" alt="Ekran Resmi 2024-04-18 14 50 31" src="https://github.com/omerfi66/Bur--R-ya/assets/120007024/4345aadf-51b3-4b89-b71d-76db2aff2a7d">
-<img width="250" alt="Ekran Resmi 2024-04-18 15 01 26" src="https://github.com/omerfi66/Bur--R-ya/assets/120007024/e8e01809-6489-458f-9eb3-3c49bda9bd58">
+![Apple iPhone 11 Pro Max Screenshot 3](https://github.com/omerfi66/Burc-Ruya/assets/120007024/2aa88391-4c08-404c-823d-a65aa2ddb60b)
+![Apple iPhone 11 Pro Max Screenshot 2](https://github.com/omerfi66/Burc-Ruya/assets/120007024/0448640c-b872-47bf-a91b-8ea8c8b120f3)
+![Apple iPhone 11 Pro Max Screenshot 1](https://github.com/omerfi66/Burc-Ruya/assets/120007024/a9166e66-847f-492c-b6cc-25dbd47160cf)
+![Apple iPhone 11 Pro Max Screenshot 0](https://github.com/omerfi66/Burc-Ruya/assets/120007024/b5bfec03-a93e-4a07-b0c1-ed9001cf04a7)
