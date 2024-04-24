@@ -13,7 +13,7 @@ You can review the source code on GitHub;
 
 
 
-![app1](https://github.com/omerfi66/Burc-Ruya/assets/120007024/6731ce94-e67b-49ee-8a1e-b2789e691cfd)
+
 <img width="237" alt="Ekran Resmi 2024-04-21 15 44 08" src="https://github.com/omerfi66/Burc-Ruya/assets/120007024/c68fca13-209c-4d48-a81a-f2d4bd23dc74">
 <img width="237" alt="Ekran Resmi 2024-04-21 15 44 08" src="https://github.com/omerfi66/Burc-Ruya/assets/120007024/b6935d6f-51ee-4a9b-87a3-2c686fcf8d44">
 <img width="237" alt="Ekran Resmi 2024-04-21 15 44 08" src="https://github.com/omerfi66/Burc-Ruya/assets/120007024/150f6372-a15d-48a7-88e1-90501f4a1f0a">
